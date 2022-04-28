@@ -11,6 +11,22 @@
 		5B800479281A049700A06587 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B800478281A049700A06587 /* ContentView.swift */; };
 		5B80047B281A049900A06587 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B80047A281A049900A06587 /* Assets.xcassets */; };
 		5B80047E281A049900A06587 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B80047D281A049900A06587 /* Preview Assets.xcassets */; };
+		5B800485281A099F00A06587 /* subjectDifficultyAddition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B800484281A099F00A06587 /* subjectDifficultyAddition.swift */; };
+		5B800487281A09B800A06587 /* subjectDifficultySubtraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B800486281A09B800A06587 /* subjectDifficultySubtraction.swift */; };
+		5B800489281A09DA00A06587 /* subjectDifficultyMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B800488281A09DA00A06587 /* subjectDifficultyMultiplication.swift */; };
+		5B80048B281A09FA00A06587 /* subjectDifficultyDivision.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B80048A281A09FA00A06587 /* subjectDifficultyDivision.swift */; };
+		5B800490281A0A8700A06587 /* additionEasy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B80048F281A0A8700A06587 /* additionEasy.swift */; };
+		5B800492281A0A9400A06587 /* additionMedium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B800491281A0A9400A06587 /* additionMedium.swift */; };
+		5B800494281A0AA400A06587 /* additionHard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B800493281A0AA400A06587 /* additionHard.swift */; };
+		5B800499281A0B0B00A06587 /* subtractionEasy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B800498281A0B0B00A06587 /* subtractionEasy.swift */; };
+		5B80049B281A0B7A00A06587 /* subtractionMedium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B80049A281A0B7A00A06587 /* subtractionMedium.swift */; };
+		5B80049D281A0B8500A06587 /* subtractionHard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B80049C281A0B8500A06587 /* subtractionHard.swift */; };
+		5B80049F281A0BA900A06587 /* multiplicationEasy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B80049E281A0BA900A06587 /* multiplicationEasy.swift */; };
+		5B8004A1281A0BC000A06587 /* multiplicationMedium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8004A0281A0BC000A06587 /* multiplicationMedium.swift */; };
+		5B8004A3281A0BCC00A06587 /* multiplicationHard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8004A2281A0BCC00A06587 /* multiplicationHard.swift */; };
+		5B8004A5281A0BD700A06587 /* divisionEasy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8004A4281A0BD700A06587 /* divisionEasy.swift */; };
+		5B8004A7281A0BE300A06587 /* divisionMedium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8004A6281A0BE300A06587 /* divisionMedium.swift */; };
+		5B8004A9281A0BFA00A06587 /* divisionHard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8004A8281A0BFA00A06587 /* divisionHard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,22 @@
 		5B800478281A049700A06587 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5B80047A281A049900A06587 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B80047D281A049900A06587 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5B800484281A099F00A06587 /* subjectDifficultyAddition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subjectDifficultyAddition.swift; sourceTree = "<group>"; };
+		5B800486281A09B800A06587 /* subjectDifficultySubtraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subjectDifficultySubtraction.swift; sourceTree = "<group>"; };
+		5B800488281A09DA00A06587 /* subjectDifficultyMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subjectDifficultyMultiplication.swift; sourceTree = "<group>"; };
+		5B80048A281A09FA00A06587 /* subjectDifficultyDivision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subjectDifficultyDivision.swift; sourceTree = "<group>"; };
+		5B80048F281A0A8700A06587 /* additionEasy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = additionEasy.swift; sourceTree = "<group>"; };
+		5B800491281A0A9400A06587 /* additionMedium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = additionMedium.swift; sourceTree = "<group>"; };
+		5B800493281A0AA400A06587 /* additionHard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = additionHard.swift; sourceTree = "<group>"; };
+		5B800498281A0B0B00A06587 /* subtractionEasy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subtractionEasy.swift; sourceTree = "<group>"; };
+		5B80049A281A0B7A00A06587 /* subtractionMedium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subtractionMedium.swift; sourceTree = "<group>"; };
+		5B80049C281A0B8500A06587 /* subtractionHard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subtractionHard.swift; sourceTree = "<group>"; };
+		5B80049E281A0BA900A06587 /* multiplicationEasy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multiplicationEasy.swift; sourceTree = "<group>"; };
+		5B8004A0281A0BC000A06587 /* multiplicationMedium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multiplicationMedium.swift; sourceTree = "<group>"; };
+		5B8004A2281A0BCC00A06587 /* multiplicationHard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multiplicationHard.swift; sourceTree = "<group>"; };
+		5B8004A4281A0BD700A06587 /* divisionEasy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisionEasy.swift; sourceTree = "<group>"; };
+		5B8004A6281A0BE300A06587 /* divisionMedium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisionMedium.swift; sourceTree = "<group>"; };
+		5B8004A8281A0BFA00A06587 /* divisionHard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisionHard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +84,9 @@
 			isa = PBXGroup;
 			children = (
 				5B800476281A049700A06587 /* MathKidzApp.swift */,
-				5B800478281A049700A06587 /* ContentView.swift */,
 				5B80047A281A049900A06587 /* Assets.xcassets */,
 				5B80047C281A049900A06587 /* Preview Content */,
+				5B80048C281A0A1E00A06587 /* Views */,
 			);
 			path = MathKidz;
 			sourceTree = "<group>";
@@ -65,6 +97,70 @@
 				5B80047D281A049900A06587 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5B80048C281A0A1E00A06587 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5B800478281A049700A06587 /* ContentView.swift */,
+				5B80048E281A0A6C00A06587 /* additionViews */,
+				5B800495281A0ABB00A06587 /* subtractionViews */,
+				5B800496281A0AD700A06587 /* multiplicationViews */,
+				5B800497281A0AEC00A06587 /* divisionViews */,
+				5B80048D281A0A2C00A06587 /* subjectDifficultyViews */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5B80048D281A0A2C00A06587 /* subjectDifficultyViews */ = {
+			isa = PBXGroup;
+			children = (
+				5B800484281A099F00A06587 /* subjectDifficultyAddition.swift */,
+				5B800486281A09B800A06587 /* subjectDifficultySubtraction.swift */,
+				5B800488281A09DA00A06587 /* subjectDifficultyMultiplication.swift */,
+				5B80048A281A09FA00A06587 /* subjectDifficultyDivision.swift */,
+			);
+			path = subjectDifficultyViews;
+			sourceTree = "<group>";
+		};
+		5B80048E281A0A6C00A06587 /* additionViews */ = {
+			isa = PBXGroup;
+			children = (
+				5B80048F281A0A8700A06587 /* additionEasy.swift */,
+				5B800491281A0A9400A06587 /* additionMedium.swift */,
+				5B800493281A0AA400A06587 /* additionHard.swift */,
+			);
+			path = additionViews;
+			sourceTree = "<group>";
+		};
+		5B800495281A0ABB00A06587 /* subtractionViews */ = {
+			isa = PBXGroup;
+			children = (
+				5B800498281A0B0B00A06587 /* subtractionEasy.swift */,
+				5B80049A281A0B7A00A06587 /* subtractionMedium.swift */,
+				5B80049C281A0B8500A06587 /* subtractionHard.swift */,
+			);
+			path = subtractionViews;
+			sourceTree = "<group>";
+		};
+		5B800496281A0AD700A06587 /* multiplicationViews */ = {
+			isa = PBXGroup;
+			children = (
+				5B80049E281A0BA900A06587 /* multiplicationEasy.swift */,
+				5B8004A0281A0BC000A06587 /* multiplicationMedium.swift */,
+				5B8004A2281A0BCC00A06587 /* multiplicationHard.swift */,
+			);
+			path = multiplicationViews;
+			sourceTree = "<group>";
+		};
+		5B800497281A0AEC00A06587 /* divisionViews */ = {
+			isa = PBXGroup;
+			children = (
+				5B8004A4281A0BD700A06587 /* divisionEasy.swift */,
+				5B8004A6281A0BE300A06587 /* divisionMedium.swift */,
+				5B8004A8281A0BFA00A06587 /* divisionHard.swift */,
+			);
+			path = divisionViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +233,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B800485281A099F00A06587 /* subjectDifficultyAddition.swift in Sources */,
+				5B8004A7281A0BE300A06587 /* divisionMedium.swift in Sources */,
+				5B80049D281A0B8500A06587 /* subtractionHard.swift in Sources */,
+				5B8004A1281A0BC000A06587 /* multiplicationMedium.swift in Sources */,
+				5B800490281A0A8700A06587 /* additionEasy.swift in Sources */,
+				5B8004A5281A0BD700A06587 /* divisionEasy.swift in Sources */,
 				5B800479281A049700A06587 /* ContentView.swift in Sources */,
+				5B800489281A09DA00A06587 /* subjectDifficultyMultiplication.swift in Sources */,
+				5B80049F281A0BA900A06587 /* multiplicationEasy.swift in Sources */,
+				5B800499281A0B0B00A06587 /* subtractionEasy.swift in Sources */,
+				5B800494281A0AA400A06587 /* additionHard.swift in Sources */,
+				5B8004A3281A0BCC00A06587 /* multiplicationHard.swift in Sources */,
+				5B800492281A0A9400A06587 /* additionMedium.swift in Sources */,
+				5B800487281A09B800A06587 /* subjectDifficultySubtraction.swift in Sources */,
+				5B80048B281A09FA00A06587 /* subjectDifficultyDivision.swift in Sources */,
+				5B8004A9281A0BFA00A06587 /* divisionHard.swift in Sources */,
+				5B80049B281A0B7A00A06587 /* subtractionMedium.swift in Sources */,
 				5B800477281A049700A06587 /* MathKidzApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
